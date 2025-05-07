@@ -6,6 +6,13 @@
       "image": "product_1.jpg",
       "price": 13.99,
       "stock": 10
+    },
+    {
+      "id": 2,
+      "name": "Caixa Comemorativa Dia das Mães Com sabonete Individual Natura Todo Dia",
+      "image": "product_2.jpg",
+      "price": 13.99,
+      "stock": 10
     }
   ]
 }
