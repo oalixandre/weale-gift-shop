@@ -2,36 +2,10 @@
   "products": [
     {
       "id": 1,
-      "name": "Gift Basket",
-      "price": 29.99,
+      "name": "Caixa Envelope Dia das Mães Com sabonete Natura Todo Dia",
+      "image": "product_1.jpg",
+      "price": 13.99,
       "stock": 10
-    },
-    {
-      "id": 2,
-      "name": "Personalized Mug",
-      "price": 15.99,
-      "stock": 25
-    },
-    {
-      "id": 3,
-      "name": "Scented Candle",
-      "description": "A soothing scented candle for relaxation.",
-      "price": 12.50,
-      "stock": 5
-    },
-    {
-      "id": 4,
-      "name": "Handmade Soap",
-      "description": "Natural handmade soap with essential oils.",
-      "price": 8.99,
-      "stock": 20
-    },
-    {
-      "id": 5,
-      "name": "Greeting Card",
-      "description": "A beautiful card for any occasion.",
-      "price": 3.50,
-      "stock": 50
     }
   ]
 }
