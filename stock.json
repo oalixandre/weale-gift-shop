@@ -57,6 +57,22 @@
       "image": "product_8.jpg",
       "price": 69.99,
       "stock": 6
+    },
+    {
+      "id": 9,
+      "name": "Kit O Boticário Nativa Spa Ameixa Dourada.",
+      "description": "Contém:\n* 1 Loção Desodorante Hidratante Corporal200ml\n* ⁠1 Colônia Body Splash 60ml\n* ⁠1 gel creme para as mãos 30g\n\nTudo isso dentro desta linda caixa presenteável",
+      "image": "product_9.jpg",
+      "price": 119.99,
+      "stock": 1
+    },
+    {
+      "id": 10,
+      "name": "Kit O Boticário Nativa Spa Ameixa",
+      "description": "Contém:\n* 1 Loção Nutritiva Desodorante Hidratante Corporal 200ml\n* ⁠1 Body Splash Desodorante Colônia 200ml\n* ⁠1 Creme Hidratante para as mãos",
+      "image": "product_10.jpg",
+      "price": 159.90,
+      "stock": 1
     }
   ]
 }
