@@ -73,6 +73,30 @@
       "image": "product_10.jpg",
       "price": 159.90,
       "stock": 1
+    },
+    {
+      "id": 11,
+      "name": "Kit Natura Todo dia Cereja e Avelã",
+      "description": "Contém:\nCreme 400ml com sabonete em barra 90g e toalha de mão\n\nNa caixa presenteável.\nLindo para qualquer ocasião!",
+      "image": "product_11.jpg",
+      "price": 79.90,
+      "stock": 9
+    },
+    {
+      "id": 12,
+      "name": "Kit O Boticário Cuide-se Bem Deleite",
+      "description": "Contém:\nCreme Desodorante Hidratante 400ml, Sabonete 80g e toalha de mão.\n\nNa caixa Presenteável 🎁\n\nDelicado e cheio de detalhes, perfeito para qualquer ocasião!",
+      "image": "product_12.jpg",
+      "price": 119.90,
+      "stock": 3
+    },
+    {
+      "id": 13,
+      "name": "Kit Eudora Instance Baunilha Glow",
+      "description": "Contém:\nCreme Hidratante Desodorante Corporal 400ml, com sabonete 80g e toalha de mão.\n\nUm carinho em forma de presente 💝",
+      "image": "product_13.jpg",
+      "price": 79.99,
+      "stock": 3
     }
   ]
 }
