@@ -97,6 +97,14 @@
       "image": "product_13.jpg",
       "price": 79.99,
       "stock": 3
+    },
+    {
+      "id": 14,
+      "name": "Kit O Boticário Nativa Spa Cereja Rouge 🍒",
+      "description": "Contém:\nLoção Aveludada Desodorante Corporal 400ml, sabonete Cecita 80g e toalha de mão.\n\nLindo e delicado para aquela pessoa especial.\n\nSurpreenda quem você Ama 🥰",
+      "image": "product_14.jpg",
+      "price": 119.90,
+      "stock":1
     }
   ]
 }
