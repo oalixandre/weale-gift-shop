@@ -80,7 +80,7 @@
       "description": "Contém:\nCreme 400ml com sabonete em barra 90g e toalha de mão\n\nNa caixa presenteável.\nLindo para qualquer ocasião!",
       "image": "product_11.jpg",
       "price": 79.90,
-      "stock": 6
+      "stock": 5
     },
     {
       "id": 12,
@@ -104,7 +104,7 @@
       "description": "Contém:\nLoção Aveludada Desodorante Corporal 400ml, sabonete Cecita 80g e toalha de mão.\n\nLindo e delicado para aquela pessoa especial.\n\nSurpreenda quem você Ama 🥰",
       "image": "product_14.jpg",
       "price": 119.90,
-      "stock":1
+      "stock": 1
     },
     {
       "id": 15,
@@ -112,7 +112,311 @@
       "description": "Contém:\n* 1 Caneca de Plástico  (Personalizada com Frases em homenagem às mães) 430ml\n* ⁠1 sachê para preparo de Bebida quente ☕ ( Capuccino sabor chocolate 3 corações ) 20g\n* ⁠1 pacote de biscoito salgado  ( Cream Cracker Le Petit ) 9g\n* ⁠⁠1 pacote de biscoito doce ( Maizena Le Petit ) 9g\n* ⁠1 Torrada Levemente Salgada ( Le Petit) 15g\n* ⁠⁠1 Margarina cremosa com sal (Leco 65% de gordura) 10g\n* ⁠ ⁠1 Bombom Lacta Sonho de Valsa 20g\n\n Lindas cores ❤💙💖\nReserve já a a sua!!!\nEdição Limitada",
       "image": "product_15.jpg",
       "price": 39.99,
-      "stock":20
+      "stock": 20
+    },
+    {
+      "id": 16,
+      "name": "Presente Natura Tododia Romã e Flor de Amora",
+      "description": "Contém:\n* 1 Sabonete em Barra Puro Vegetal 90g\n* 1 Creme para as mãos 50ml",
+      "image": "product_16.jpg",
+      "price": 39.90,
+      "stock": 2
+    },
+    {
+      "id": 17,
+      "name": "Presente Natura Tododia Amora Vermelha e Jabuticaba",
+      "description": "Contém:\n* 1 Sabonete em Barra Puro Vegetal 90g\n* 1 Creme para o corpo 80ml",
+      "image": "product_17.jpg",
+      "price": 39.90,
+      "stock": 1
+    },
+    {
+      "id": 18,
+      "name": "Caixa de Sabonete Em Barra Perfumado Lily",
+      "description": "Contém 2 unidades de 90g cada",
+      "image": "product_18.jpg",
+      "price": 49.99,
+      "stock": 1
+    },
+    {
+      "id": 19,
+      "name": "Shampoo Siàge Nutri Rosé 250ml",
+      "image": "product_19.jpg",
+      "price": 47.99,
+      "stock": 12
+    },
+    {
+      "id": 20,
+      "name": "Condicionador Siàge Nutri Rosé 200ml",
+      "image": "product_20.jpg",
+      "price": 49.99,
+      "stock": 1
+    },
+    {
+      "id": 21,
+      "name": "Condicionador Siàge Nutri Rosé 400ml",
+      "image": "product_21.jpg",
+      "price": 69.99,
+      "stock": 1
+    },
+    {
+      "id": 22,
+      "name": "Máscara Repositora Siàge Expert Regeneração Pós Química 250g",
+      "image": "product_22.jpg",
+      "price": 69.99,
+      "stock": 1
+    },
+    {
+      "id": 23,
+      "name": "Shampoo Siàge Expert Regeneração Pós Química 250ml",
+      "image": "product_23.jpg",
+      "price": 47.99,
+      "stock": 1
+    },
+    {
+      "id": 24,
+      "name": "Condicionador Siàge Expert Regeneração Pós Química 200ml",
+      "image": "product_24.jpg",
+      "price": 49.99,
+      "stock": 1
+    },
+    {
+      "id": 25,
+      "name": "Condicionador Siàge Acelera O Crescimento 200ml",
+      "image": "product_25.jpg",
+      "price": 49.99,
+      "stock": 1
+    },
+    {
+      "id": 26,
+      "name": "Lyra Desodorante Colônia 75ml",
+      "image": "product_26.jpg",
+      "price": 154.90,
+      "stock": 1
+    },
+    {
+      "id": 27,
+      "name": "Velvet Inspire Desodorante Colônia 100ml",
+      "image": "product_27.jpg",
+      "price": 114.90,
+      "stock": 1
+    },
+    {
+      "id": 28,
+      "name": "Condicionador Pós-Química Match SOS Cauterização 250ml",
+      "label": "Com 30% de desconto",
+      "image": "product_28.jpg",
+      "price": 49.90,
+      "promo_price": 34.90,
+      "stock": 1
+    },
+    {
+      "id": 29,
+      "name": "Shampoo Cuide-Se Bem Feira Abacaxi 230ml",
+      "image": "product_29.jpg",
+      "price": 24.90,
+      "stock": 1
+    },
+    {
+      "id": 30,
+      "name": "Body Splash Desodorante Colônia Cuide-se Bem Feira Maracujá 200ml",
+      "image": "product_30.jpg",
+      "price": 84.90,
+      "stock": 1
+    },
+    {
+      "id": 31,
+      "name": "Body Splash Desodorante Colônia Cuide-se Bem Nivem de Alegria 200ml",
+      "image": "product_31.jpg",
+      "price": 84.90,
+      "stock": 2
+    },
+    {
+      "id": 32,
+      "name": "Body Splash Ameixa",
+      "image": "product_32.jpg",
+      "price": 84.90,
+      "stock": 1
+    },
+    {
+      "id": 33,
+      "name": "L’eau de Lily Blanche Desodorante Colônia 75ml",
+      "image": "product_33.jpg",
+      "price": 209.90,
+      "stock": 1
+    },
+    {
+      "id": 34,
+      "name": "Accordes Harmonia Desodorante Colônia 80ml",
+      "image": "product_34.jpg",
+      "price": 224.90,
+      "stock": 1
+    },
+    {
+      "id": 35,
+      "name": "Linda Irresistível Desodorante Colônia 100ml",
+      "image": "product_35.jpg",
+      "price": 189.90,
+      "stock": 1
+    },
+    {
+      "id": 36,
+      "name": "Floratta Red Desodorante Colônia 75ml",
+      "image": "product_35.jpg",
+      "price": 149.90,
+      "stock": 2
+    },
+    {
+      "id": 37,
+      "name": "Floratta Simple Love Desodorante Colônia 75ml",
+      "image": "product_37.jpg",
+      "price": 149.90,
+      "stock": 1
+    },
+    {
+      "id": 38,
+      "name": "Boticollection Anni Desodorante Colônia 100ml",
+      "image": "product_38.jpg",
+      "price": 154.90,
+      "promo_price": 132.90,
+      "stock": 1
+    },
+    {
+      "id": 39,
+      "name": "Her Code Eau De Parfum 50ml",
+      "image": "product_39.jpg",
+      "price": 239.90,
+      "stock": 1
+    },
+    {
+      "id": 40,
+      "name": "Egeo Red Desodorante Colônia 90ml",
+      "image": "product_40.jpg",
+      "price": 154.90,
+      "stock": 1
+    },
+    {
+      "id": 41,
+      "name": "Ekos Frescor Castanha 150 ml",
+      "image": "product_41.jpg",
+      "price": 121.90,
+      "stock": 1
+    },
+    {
+      "id": 42,
+      "name": "Ekos Frescor com Aromático de Maracujá Natureza dos Sonhos 150 ml",
+      "image": "product_42.jpg",
+      "price": 121.90,
+      "promo_price": 79.20,
+      "stock": 1
+    },
+    {
+      "id": 43,
+      "name": "Natura Ekos Açaí",
+      "image": "product_43.jpg",
+      "price": 78.90,
+      "stock": 1
+    },
+    {
+      "id": 44,
+      "name": "Perfume Tarot Natura 100ml",
+      "image": "product_44.jpg",
+      "price": 359.90,
+      "stock": 1
+    },
+    {
+      "id": 45,
+      "name": "Desodorante Perfume Ilía Feminino 50 ml",
+      "image": "product_45.jpg",
+      "price": 185.90,
+      "stock": 1
+    },
+    {
+      "id": 46,
+      "name": "Ilía Florescer 50 ml",
+      "image": "product_46.jpg",
+      "price": 185.90,
+      "promo_price": 120.84,
+      "stock": 1
+    },
+    {
+      "id": 47,
+      "name": "Desodorante Colônia Luna Feminino 75 ml",
+      "image": "product_47.jpg",
+      "price": 181.90,
+      "stock": 1
+    },
+    {
+      "id": 48,
+      "name": "Ekos Frescor Tukumã Desodorante Colônia 150 ml",
+      "image": "product_48.jpg",
+      "price": 79.90,
+      "stock": 1
+    },
+    {
+      "id": 49,
+      "name": "Body Splash Desodorante Colônia Tododia Tâmara e Canela Feminino 200 ml",
+      "image": "product_49.jpg",
+      "price": 79.90,
+      "stock": 1
+    },
+    {
+      "id": 50,
+      "name": "Body Splash Tododia Tâmara e Canela 200 ml",
+      "image": "product_50.jpg",
+      "price": 79.90,
+      "stock": 1
+    },
+    {
+      "id": 51,
+      "name": "Sabonete Líquido em Gel Tododia Cereja e Avelã 300 ml",
+      "image": "product_51.jpg",
+      "price": 48.90,
+      "stock": 1
+    },
+    {
+      "id": 52,
+      "name": "Creme Hidratante Desodorante Corporal Instance Bombom de Avelã 400ml",
+      "image": "product_52.jpg",
+      "price": 54.99,
+      "promo_price": 34.90,
+      "stock": 1
+    },
+    {
+      "id": 53,
+      "name": "Creme Hidratante Desodorante Corporal Instance Baunilha 400ml",
+      "image": "product_53.jpg",
+      "price": 54.99,
+      "stock": 1
+    },
+    {
+      "id": 54,
+      "name": "Spray Perfumado Desodorante Colônia Instance Baunilha 200ml",
+      "image": "product_54.jpg",
+      "price": 69.99,
+      "stock": 1
+    },
+    {
+      "id": 55,
+      "name": "Desodorante Antitranspirante Aerossol Sem Cheiro Instance 150ml/90g",
+      "image": "product_55.jpg",
+      "price": 31.99,
+      "promo_price": 25.00,
+      "stock": 1
+    },
+    {
+      "id": 56,
+      "name": "Mary Kay Love Fearlessly™ Deo Parfum 50ml",
+      "image": "product_56.jpg",
+      "price": 176.90,
+      "stock": 1
+    },
+    {
+      "id": 57,
+      "name": "Creme de Banho Acetinado Lily 250ml",
+      "image": "product_57.jpg",
+      "price": 89.90,
+      "stock": 1
     }
   ]
 }
