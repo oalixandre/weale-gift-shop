@@ -164,21 +164,21 @@
       "name": "Máscara Repositora Siàge Expert Regeneração Pós Química 250g",
       "image": "product_22.jpg",
       "price": 69.99,
-      "stock": 1
+      "stock": 0
     },
     {
       "id": 23,
       "name": "Shampoo Siàge Expert Regeneração Pós Química 250ml",
       "image": "product_23.jpg",
       "price": 47.99,
-      "stock": 1
+      "stock": 0
     },
     {
       "id": 24,
       "name": "Condicionador Siàge Expert Regeneração Pós Química 200ml",
       "image": "product_24.jpg",
       "price": 49.99,
-      "stock": 1
+      "stock": 0
     },
     {
       "id": 25,
@@ -337,7 +337,7 @@
       "image": "product_46.jpg",
       "price": 185.90,
       "promo_price": 120.84,
-      "stock": 1
+      "stock": 0
     },
     {
       "id": 47,
