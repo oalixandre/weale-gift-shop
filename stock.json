@@ -55,17 +55,8 @@
       "description": "Contém:\n* 1 Pote de Mantimento com tampa (Personalizado Mãe para armazenar açúcar, café, farinha, etc) 2L\n* ⁠1 Bebida fria ( Suco Maguary sabor maracujá) 150ml\n*⁠1 sachê para preparo de Bebida quente ☕ ( Capuccino sabor chocolate 3 corações ) 20g\n* ⁠1 Bolinho de doce ( Bauducco sabor laranja 🍊) 40g\n* ⁠1 pacote de biscoito salgado  ( Cream Cracker Le Petit ) 9g\n* ⁠1 pacote de biscoito doce ( Maizena Le Petit ) 9g\n* ⁠1 Torrada Levemente Salgada ( Le Petit) 15g\n* ⁠1 Margarina cremosa com sal (Leco 65% de gordura) 10g\n* ⁠1 Geleia de morango 47kcal ( Bom Sabor) 15g\n* ⁠1 Geleia de Goiaba 44kcal ( Bom Sabor) 15g\n* ⁠1 Bombom Lacta Ouro Branco 20g\n* ⁠1 Bombom Lacta Sonho de Valsa 20g",
       "image": "product_7.jpg",
       "price": 69.99,
-      "stock": 10,
+      "stock": 8,
       "order": 3
-    },
-    {
-      "id": 8,
-      "name": "Linda Cesta de Café da Manhã Especial Dia das Mães (2ª Opção)",
-      "description": "Contém:\n * 1 Pote de Mantimento com tampa (Personalizado Mãe para armazenar açúcar, café, farinha, etc) 2L\n * ⁠⁠1 Bebida fria ( Suco Maguary sabor maracujá) 150ml \n* ⁠1 sachê para preparo de Bebida quente ☕ ( Capuccino sabor chocolate 3 corações ) 20g \n* ⁠1 Bolinho de doce ( Bauducco sabor laranja 🍊) 40g \n* ⁠1 pacote de biscoito salgado  ( Cream Cracker Le Petit ) 9g \n* ⁠⁠1 pacote de biscoito doce ( Maizena Le Petit ) 9g \n* ⁠1 Torrada Levemente Salgada ( Le Petit) 15g \n* ⁠⁠1 Margarina cremosa com sal (Leco 65% de gordura) 10g\n* ⁠1 Geleia de morango 47kcal ( Bom Sabor) 15g \n* ⁠1 Geleia de Goiaba 44kcal ( Bom Sabor) 15g * ⁠1 Bombom Lacta Ouro Branco 20g\n* ⁠ ⁠1 Bombom Lacta Sonho de Valsa 20g",
-      "image": "product_8.jpg",
-      "price": 69.99,
-      "stock": 6,
-      "order": 4
     },
     {
       "id": 9,
