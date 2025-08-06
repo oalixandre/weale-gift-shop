@@ -582,6 +582,167 @@
       "stock": 1,
       "order": 6,
       "active": true
+    },
+    {
+      "id": 64,
+      "name": "Caixa Especial Dia dos Pais 🥸",
+      "description": "Contém:\n* 🍷 Vinho Tinto Suave Quinta do Morgado Serra Gaúcha - Safra de 2021 - 245ml\n* ⁠Mendorato\n* ⁠Bombom Sonho de Valsa\n* ⁠Amendoim Salgado Sem Casca\n* ⁠Bombom Ouro Branco",
+      "image": "product_64.jpg",
+      "images": ["product_64.jpg", "product_64a.jpg"],
+      "price": 49.99,
+      "stock": 5,
+      "order": 7,
+      "active": true
+    },
+    {
+      "id": 65,
+      "name": "Malbec Pure Gold Desodorante Colônia 100ml",
+      "description": "Composição luxuosa somada ao calor do âmbar e à potência das madeiras, entrega uma fragrância que desperta desejo em até 5 segundos por meio da exclusiva tecnologia Goldsense.\n\nIrresistível!!",
+      "image": "product_65.jpg",
+      "images": ["product_65.jpg", "product_65a.jpg"],
+      "price": 204.90,
+      "stock": 7,
+      "order": 8,
+      "active": true
+    },
+    {
+      "id": 66,
+      "name": "O Boticário Malbec Desodorante Masculino Colônia 100ml",
+      "image": "product_66.jpg",
+      "price": 209.90,
+      "stock": 1,
+      "order": 9,
+      "active": true
+    },
+    {
+      "id": 67,
+      "name": "Boticollection Connexion Desodorante Colônia 100ml",
+      "image": "product_67.jpg",
+      "price": 164.90,
+      "stock": 1,
+      "order": 10,
+      "active": true
+    },
+    {
+      "id": 68,
+      "name": "Quasar Blue Desodorante Colônia 100ml",
+      "image": "product_68.jpg",
+      "price": 164.90,
+      "stock": 3,
+      "order": 11,
+      "active": true
+    },
+    {
+      "id": 69,
+      "name": "Quasar Classic Desodorante Colônia 100ml",
+      "image": "product_69.jpg",
+      "price": 164.90,
+      "stock": 1,
+      "order": 12,
+      "active": true
+    },
+    {
+      "id": 70,
+      "name": "Uomini Black Desodorante Colônia 100ml",
+      "image": "product_70.jpg",
+      "price": 189.90,
+      "stock": 2,
+      "order": 12,
+      "active": true
+    },
+    {
+      "id": 71,
+      "name": "Uomini Spirit Desodorante Colônia 100ml",
+      "image": "product_71.jpg",
+      "price": 189.90,
+      "stock": 1,
+      "order": 13,
+      "active": true
+    },
+    {
+      "id": 72,
+      "name": "Egeo Bomb Black Desodorante Colônia 90ml",
+      "image": "product_72.jpg",
+      "price": 154.90,
+      "stock": 1,
+      "order": 14,
+      "active": true
+    },
+    {
+      "id": 73,
+      "name": "Egeo Spicy Vibe Desodorante Colônia 90ml",
+      "image": "product_73.jpg",
+      "price": 154.90,
+      "stock": 1,
+      "order": 15,
+      "active": true
+    },
+    {
+      "id": 74,
+      "name": "Eudora H Ready Desodorante Colônia 100ml",
+      "image": "product_74.jpg",
+      "price": 109.90,
+      "stock": 1,
+      "order": 16,
+      "active": true
+    },
+    {
+      "id": 75,
+      "name": "Eudora H Refresh Desodorante Colônia 100ml",
+      "image": "product_75.jpg",
+      "price": 109.90,
+      "stock": 1,
+      "order": 17,
+      "active": true
+    },
+    {
+      "id": 76,
+      "name": "Pulse Boost Desodorante Colônia 100ml",
+      "image": "product_76.jpg",
+      "price": 84.90,
+      "stock": 3,
+      "order": 18,
+      "active": true
+    },
+    {
+      "id": 77,
+      "name": "Natura Homem 100 ml",
+      "label": "Com R$ 70,00 de desconto",
+      "image": "product_77.jpg",
+      "price": 199.90,
+      "promo_price": 129.99,
+      "stock": 2,
+      "order": 19,
+      "active": true
+    },
+    {
+      "id": 78,
+      "name": "Kaiak O2 Masculino 100 ml",
+      "image": "product_78.jpg",
+      "price": 185.90,
+      "stock": 1,
+      "order": 20,
+      "active": true
+    },
+    {
+      "id": 79,
+      "name": "Caixa Comemorativa Especial Dia dos Pais 💼🎩🥸   Com Sabonete Natura 90g.",
+      "description": "Escolha a do seu pai!!",
+      "image": "product_79.jpg",
+      "price": 13.50,
+      "stock": 60,
+      "order": 20,
+      "active": true
+    },
+    {
+      "id": 80,
+      "name": "Caixa Comemorativa Especial Dia dos Pais 💼🎩🥸   Com Sabonete Natura 90g.",
+      "description": "Escolha a do seu pai!!",
+      "image": "product_80.jpg",
+      "price": 13.50,
+      "stock": 60,
+      "order": 20,
+      "active": false
     }
   ]
 }
