@@ -1,4 +1,4 @@
-{
+﻿{
   "products": [
     {
       "id": 1,
@@ -7,7 +7,8 @@
       "price": 11.99,
       "stock": 10,
       "order": 1,
-      "active": false
+      "active": false,
+      "category": "Presentes & Kits"
     },
     {
       "id": 2,
@@ -16,16 +17,18 @@
       "price": 11.99,
       "stock": 0,
       "order": 2,
-      "active": false
+      "active": false,
+      "category": "Presentes & Kits"
     },
     {
       "id": 3,
       "name": "Kit Flor de Pêra e Melissa",
       "image": "product_3.jpg",
-      "price": 39.90,
+      "price": 39.9,
       "stock": 0,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Outros"
     },
     {
       "id": 4,
@@ -35,25 +38,28 @@
       "price": 59.99,
       "stock": 17,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Cuidados Pessoais"
     },
     {
       "id": 5,
       "name": "Kit Eudora Frutas Vermelhas: Spray Corporal 75ml + Sabonete em Barra 80g (4 unidades)",
       "image": "product_5.jpg",
-      "price": 59.90,
+      "price": 59.9,
       "stock": 7,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Presentes & Kits"
     },
     {
       "id": 6,
       "name": "Presente Natura tododia macadâmia",
       "image": "product_6.jpg",
-      "price": 59.90,
+      "price": 59.9,
       "stock": 6,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Outros"
     },
     {
       "id": 7,
@@ -63,7 +69,8 @@
       "price": 69.99,
       "stock": 8,
       "order": 3,
-      "active": false
+      "active": false,
+      "category": "Presentes & Kits"
     },
     {
       "id": 9,
@@ -73,37 +80,41 @@
       "price": 119.99,
       "stock": 1,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Presentes & Kits"
     },
     {
       "id": 10,
       "name": "Kit O Boticário Nativa Spa Ameixa",
       "description": "Contém:\n* 1 Loção Nutritiva Desodorante Hidratante Corporal 200ml\n* ⁠1 Body Splash Desodorante Colônia 200ml\n* ⁠1 Creme Hidratante para as mãos",
       "image": "product_10.jpg",
-      "price": 159.90,
+      "price": 159.9,
       "stock": 1,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Presentes & Kits"
     },
     {
       "id": 11,
       "name": "Kit Natura Todo dia Cereja e Avelã",
       "description": "Contém:\nCreme 400ml com sabonete em barra 90g e toalha de mão\n\nNa caixa presenteável.\nLindo para qualquer ocasião!",
       "image": "product_11.jpg",
-      "price": 79.90,
+      "price": 79.9,
       "stock": 4,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Presentes & Kits"
     },
     {
       "id": 12,
       "name": "Kit O Boticário Cuide-se Bem Deleite",
       "description": "Contém:\nCreme Desodorante Hidratante 400ml, Sabonete 80g e toalha de mão.\n\nNa caixa Presenteável 🎁\n\nDelicado e cheio de detalhes, perfeito para qualquer ocasião!",
       "image": "product_12.jpg",
-      "price": 119.90,
+      "price": 119.9,
       "stock": 2,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Presentes & Kits"
     },
     {
       "id": 13,
@@ -113,17 +124,19 @@
       "price": 79.99,
       "stock": 2,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Presentes & Kits"
     },
     {
       "id": 14,
       "name": "Kit O Boticário Nativa Spa Cereja Rouge 🍒",
       "description": "Contém:\nLoção Aveludada Desodorante Corporal 400ml, sabonete Cecita 80g e toalha de mão.\n\nLindo e delicado para aquela pessoa especial.\n\nSurpreenda quem você Ama 🥰",
       "image": "product_14.jpg",
-      "price": 119.90,
+      "price": 119.9,
       "stock": 1,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Presentes & Kits"
     },
     {
       "id": 15,
@@ -133,27 +146,30 @@
       "price": 39.99,
       "stock": 20,
       "order": 6,
-      "active": false
+      "active": false,
+      "category": "Presentes & Kits"
     },
     {
       "id": 16,
       "name": "Presente Natura Tododia Romã e Flor de Amora",
       "description": "Contém:\n* 1 Sabonete em Barra Puro Vegetal 90g\n* 1 Creme para as mãos 50ml",
       "image": "product_16.jpg",
-      "price": 39.90,
+      "price": 39.9,
       "stock": 2,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Cuidados Pessoais"
     },
     {
       "id": 17,
       "name": "Presente Natura Tododia Amora Vermelha e Jabuticaba",
       "description": "Contém:\n* 1 Sabonete em Barra Puro Vegetal 90g\n* 1 Creme para o corpo 80ml",
       "image": "product_17.jpg",
-      "price": 39.90,
+      "price": 39.9,
       "stock": 1,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Cuidados Pessoais"
     },
     {
       "id": 18,
@@ -163,7 +179,8 @@
       "price": 49.99,
       "stock": 1,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Cuidados Pessoais"
     },
     {
       "id": 19,
@@ -172,7 +189,8 @@
       "price": 47.99,
       "stock": 12,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Cabelos"
     },
     {
       "id": 20,
@@ -181,7 +199,8 @@
       "price": 49.99,
       "stock": 1,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Cabelos"
     },
     {
       "id": 21,
@@ -190,7 +209,8 @@
       "price": 69.99,
       "stock": 1,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Cabelos"
     },
     {
       "id": 22,
@@ -199,7 +219,8 @@
       "price": 69.99,
       "stock": 0,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Cabelos"
     },
     {
       "id": 23,
@@ -208,7 +229,8 @@
       "price": 47.99,
       "stock": 0,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Cabelos"
     },
     {
       "id": 24,
@@ -217,7 +239,8 @@
       "price": 49.99,
       "stock": 0,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Cabelos"
     },
     {
       "id": 25,
@@ -226,256 +249,284 @@
       "price": 49.99,
       "stock": 1,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Cabelos"
     },
     {
       "id": 26,
       "name": "Lyra Desodorante Colônia 75ml",
       "image": "product_26.jpg",
-      "price": 154.90,
+      "price": 154.9,
       "stock": 1,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Colônias & Perfumes Femininos"
     },
     {
       "id": 27,
       "name": "Velvet Inspire Desodorante Colônia 100ml",
       "image": "product_27.jpg",
-      "price": 114.90,
+      "price": 114.9,
       "stock": 1,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Colônias & Perfumes Femininos"
     },
     {
       "id": 28,
       "name": "Condicionador Pós-Química Match SOS Cauterização 250ml",
       "label": "Com 30% de desconto",
       "image": "product_28.jpg",
-      "price": 49.90,
-      "promo_price": 34.90,
+      "price": 49.9,
+      "promo_price": 34.9,
       "stock": 1,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Cabelos"
     },
     {
       "id": 29,
       "name": "Shampoo Cuide-Se Bem Feira Abacaxi 230ml",
       "image": "product_29.jpg",
-      "price": 24.90,
+      "price": 24.9,
       "stock": 1,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Cabelos"
     },
     {
       "id": 30,
       "name": "Body Splash Desodorante Colônia Cuide-se Bem Feira Maracujá 200ml",
       "image": "product_30.jpg",
-      "price": 84.90,
+      "price": 84.9,
       "stock": 1,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Body Splash & Spray"
     },
     {
       "id": 31,
       "name": "Body Splash Desodorante Colônia Cuide-se Bem Nivem de Alegria 200ml",
       "image": "product_31.jpg",
-      "price": 84.90,
+      "price": 84.9,
       "stock": 2,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Body Splash & Spray"
     },
     {
       "id": 32,
       "name": "Body Splash Ameixa",
       "image": "product_32.jpg",
-      "price": 84.90,
+      "price": 84.9,
       "stock": 1,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Body Splash & Spray"
     },
     {
       "id": 33,
       "name": "L’eau de Lily Blanche Desodorante Colônia 75ml",
       "image": "product_33.jpg",
-      "price": 209.90,
+      "price": 209.9,
       "stock": 1,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Colônias & Perfumes Femininos"
     },
     {
       "id": 34,
       "name": "Accordes Harmonia Desodorante Colônia 80ml",
       "image": "product_34.jpg",
-      "price": 224.90,
+      "price": 224.9,
       "stock": 1,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Colônias & Perfumes Femininos"
     },
     {
       "id": 35,
       "name": "Linda Irresistível Desodorante Colônia 100ml",
       "image": "product_35.jpg",
-      "price": 189.90,
+      "price": 189.9,
       "stock": 1,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Colônias & Perfumes Femininos"
     },
     {
       "id": 36,
       "name": "Floratta Red Desodorante Colônia 75ml",
       "image": "product_35.jpg",
-      "price": 149.90,
+      "price": 149.9,
       "stock": 2,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Colônias & Perfumes Femininos"
     },
     {
       "id": 37,
       "name": "Floratta Simple Love Desodorante Colônia 75ml",
       "image": "product_37.jpg",
-      "price": 149.90,
+      "price": 149.9,
       "stock": 1,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Colônias & Perfumes Femininos"
     },
     {
       "id": 38,
       "name": "Boticollection Anni Desodorante Colônia 100ml",
       "image": "product_38.jpg",
-      "price": 154.90,
-      "promo_price": 132.90,
+      "price": 154.9,
+      "promo_price": 132.9,
       "stock": 1,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Colônias & Perfumes Femininos"
     },
     {
       "id": 39,
       "name": "Her Code Eau De Parfum 50ml",
       "image": "product_39.jpg",
-      "price": 239.90,
+      "price": 239.9,
       "stock": 1,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Colônias & Perfumes Femininos"
     },
     {
       "id": 40,
       "name": "Egeo Red Desodorante Colônia 90ml",
       "image": "product_40.jpg",
-      "price": 154.90,
+      "price": 154.9,
       "stock": 1,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Colônias & Perfumes Masculinos"
     },
     {
       "id": 41,
       "name": "Ekos Frescor Castanha 150 ml",
       "image": "product_41.jpg",
-      "price": 121.90,
+      "price": 121.9,
       "stock": 1,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Outros"
     },
     {
       "id": 42,
       "name": "Ekos Frescor com Aromático de Maracujá Natureza dos Sonhos 150 ml",
       "image": "product_42.jpg",
-      "price": 121.90,
-      "promo_price": 79.20,
+      "price": 121.9,
+      "promo_price": 79.2,
       "stock": 1,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Outros"
     },
     {
       "id": 43,
       "name": "Natura Ekos Açaí",
       "image": "product_43.jpg",
-      "price": 78.90,
+      "price": 78.9,
       "stock": 1,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Outros"
     },
     {
       "id": 44,
       "name": "Perfume Tarot Natura 100ml",
       "image": "product_44.jpg",
-      "price": 359.90,
+      "price": 359.9,
       "stock": 1,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Colônias & Perfumes Femininos"
     },
     {
       "id": 45,
       "name": "Desodorante Perfume Ilía Feminino 50 ml",
       "image": "product_45.jpg",
-      "price": 185.90,
+      "price": 185.9,
       "stock": 1,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Colônias & Perfumes Femininos"
     },
     {
       "id": 46,
       "name": "Ilía Florescer 50 ml",
       "image": "product_46.jpg",
-      "price": 185.90,
+      "price": 185.9,
       "promo_price": 120.84,
       "stock": 0,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Outros"
     },
     {
       "id": 47,
       "name": "Desodorante Colônia Luna Feminino 75 ml",
       "image": "product_47.jpg",
-      "price": 181.90,
+      "price": 181.9,
       "stock": 1,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Colônias & Perfumes Femininos"
     },
     {
       "id": 48,
       "name": "Ekos Frescor Tukumã Desodorante Colônia 150 ml",
       "image": "product_48.jpg",
-      "price": 79.90,
+      "price": 79.9,
       "stock": 1,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Colônias & Perfumes Femininos"
     },
     {
       "id": 49,
       "name": "Body Splash Desodorante Colônia Tododia Tâmara e Canela Feminino 200 ml",
       "image": "product_49.jpg",
-      "price": 79.90,
+      "price": 79.9,
       "stock": 1,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Body Splash & Spray"
     },
     {
       "id": 50,
       "name": "Body Splash Tododia Tâmara e Canela 200 ml",
       "image": "product_50.jpg",
-      "price": 79.90,
+      "price": 79.9,
       "stock": 1,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Body Splash & Spray"
     },
     {
       "id": 51,
       "name": "Sabonete Líquido em Gel Tododia Cereja e Avelã 300 ml",
       "image": "product_51.jpg",
-      "price": 48.90,
+      "price": 48.9,
       "stock": 1,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Cuidados Pessoais"
     },
     {
       "id": 52,
       "name": "Creme Hidratante Desodorante Corporal Instance Bombom de Avelã 400ml",
       "image": "product_52.jpg",
       "price": 54.99,
-      "promo_price": 34.90,
+      "promo_price": 34.9,
       "stock": 1,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Cuidados Pessoais"
     },
     {
       "id": 53,
@@ -484,7 +535,8 @@
       "price": 54.99,
       "stock": 1,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Cuidados Pessoais"
     },
     {
       "id": 54,
@@ -493,35 +545,39 @@
       "price": 69.99,
       "stock": 1,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Colônias & Perfumes Femininos"
     },
     {
       "id": 55,
       "name": "Desodorante Antitranspirante Aerossol Sem Cheiro Instance 150ml/90g",
       "image": "product_55.jpg",
       "price": 31.99,
-      "promo_price": 25.00,
+      "promo_price": 25,
       "stock": 1,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Outros"
     },
     {
       "id": 56,
       "name": "Mary Kay Love Fearlessly™ Deo Parfum 50ml",
       "image": "product_56.jpg",
-      "price": 176.90,
+      "price": 176.9,
       "stock": 1,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Outros"
     },
     {
       "id": 57,
       "name": "Creme de Banho Acetinado Lily 250ml",
       "image": "product_57.jpg",
-      "price": 89.90,
+      "price": 89.9,
       "stock": 1,
       "order": null,
-      "active": false
+      "active": false,
+      "category": "Cuidados Pessoais"
     },
     {
       "id": 58,
@@ -532,17 +588,19 @@
       "price": 39.99,
       "stock": 10,
       "order": 1,
-      "active": true
+      "active": false,
+      "category": "Presentes & Kits"
     },
     {
       "id": 59,
       "name": "Kit Boticário Malbec Pure Gold",
       "description": "Contém:\nCreme 200g pré e pós barba com sabonete em barra 90g e toalha de mão\n\nNa caixa presenteável.\n\nLindo para qualquer ocasião !\n\nMe chame para reservar o seu!",
       "image": "product_59.jpg",
-      "price": 104.90,
+      "price": 104.9,
       "stock": 6,
       "order": 2,
-      "active": true
+      "active": false,
+      "category": "Presentes & Kits"
     },
     {
       "id": 60,
@@ -551,7 +609,8 @@
       "price": 39.99,
       "stock": 3,
       "order": 3,
-      "active": true
+      "active": false,
+      "category": "Body Splash & Spray"
     },
     {
       "id": 61,
@@ -561,7 +620,8 @@
       "price": 79.99,
       "stock": 6,
       "order": 4,
-      "active": true
+      "active": false,
+      "category": "Presentes & Kits"
     },
     {
       "id": 62,
@@ -571,7 +631,8 @@
       "price": 69.99,
       "stock": 1,
       "order": 5,
-      "active": true
+      "active": false,
+      "category": "Presentes & Kits"
     },
     {
       "id": 63,
@@ -581,168 +642,476 @@
       "price": 59.99,
       "stock": 1,
       "order": 6,
-      "active": true
+      "active": false,
+      "category": "Presentes & Kits"
     },
     {
       "id": 64,
       "name": "Caixa Especial Dia dos Pais 🥸",
       "description": "Contém:\n* 🍷 Vinho Tinto Suave Quinta do Morgado Serra Gaúcha - Safra de 2021 - 245ml\n* ⁠Mendorato\n* ⁠Bombom Sonho de Valsa\n* ⁠Amendoim Salgado Sem Casca\n* ⁠Bombom Ouro Branco",
       "image": "product_64.jpg",
-      "images": ["product_64.jpg", "product_64a.jpg"],
+      "images": [
+        "product_64.jpg",
+        "product_64a.jpg"
+      ],
       "price": 49.99,
       "stock": 5,
       "order": 7,
-      "active": true
+      "active": false,
+      "category": "Presentes & Kits"
     },
     {
       "id": 65,
       "name": "Malbec Pure Gold Desodorante Colônia 100ml",
       "description": "Composição luxuosa somada ao calor do âmbar e à potência das madeiras, entrega uma fragrância que desperta desejo em até 5 segundos por meio da exclusiva tecnologia Goldsense.\n\nIrresistível!!",
       "image": "product_65.jpg",
-      "images": ["product_65.jpg", "product_65a.jpg"],
-      "price": 204.90,
+      "images": [
+        "product_65.jpg",
+        "product_65a.jpg"
+      ],
+      "price": 204.9,
       "stock": 7,
       "order": 8,
-      "active": true
+      "active": false,
+      "category": "Colônias & Perfumes Masculinos"
     },
     {
       "id": 66,
       "name": "O Boticário Malbec Desodorante Masculino Colônia 100ml",
       "image": "product_66.jpg",
-      "price": 209.90,
+      "price": 209.9,
       "stock": 1,
       "order": 9,
-      "active": true
+      "active": false,
+      "category": "Colônias & Perfumes Masculinos"
     },
     {
       "id": 67,
       "name": "Boticollection Connexion Desodorante Colônia 100ml",
       "image": "product_67.jpg",
-      "price": 164.90,
+      "price": 164.9,
       "stock": 1,
       "order": 10,
-      "active": true
+      "active": false,
+      "category": "Colônias & Perfumes Femininos"
     },
     {
       "id": 68,
       "name": "Quasar Blue Desodorante Colônia 100ml",
       "image": "product_68.jpg",
-      "price": 164.90,
+      "price": 164.9,
       "stock": 3,
       "order": 11,
-      "active": true
+      "active": false,
+      "category": "Colônias & Perfumes Masculinos"
     },
     {
       "id": 69,
       "name": "Quasar Classic Desodorante Colônia 100ml",
       "image": "product_69.jpg",
-      "price": 164.90,
+      "price": 164.9,
       "stock": 1,
       "order": 12,
-      "active": true
+      "active": false,
+      "category": "Colônias & Perfumes Masculinos"
     },
     {
       "id": 70,
       "name": "Uomini Black Desodorante Colônia 100ml",
       "image": "product_70.jpg",
-      "price": 189.90,
+      "price": 189.9,
       "stock": 2,
       "order": 12,
-      "active": true
+      "active": false,
+      "category": "Colônias & Perfumes Masculinos"
     },
     {
       "id": 71,
       "name": "Uomini Spirit Desodorante Colônia 100ml",
       "image": "product_71.jpg",
-      "price": 189.90,
+      "price": 189.9,
       "stock": 1,
       "order": 13,
-      "active": true
+      "active": false,
+      "category": "Colônias & Perfumes Masculinos"
     },
     {
       "id": 72,
       "name": "Egeo Bomb Black Desodorante Colônia 90ml",
       "image": "product_72.jpg",
-      "price": 154.90,
+      "price": 154.9,
       "stock": 1,
       "order": 14,
-      "active": true
+      "active": false,
+      "category": "Colônias & Perfumes Masculinos"
     },
     {
       "id": 73,
       "name": "Egeo Spicy Vibe Desodorante Colônia 90ml",
       "image": "product_73.jpg",
-      "price": 154.90,
+      "price": 154.9,
       "stock": 1,
       "order": 15,
-      "active": true
+      "active": false,
+      "category": "Colônias & Perfumes Masculinos"
     },
     {
       "id": 74,
       "name": "Eudora H Ready Desodorante Colônia 100ml",
       "image": "product_74.jpg",
-      "price": 109.90,
+      "price": 109.9,
       "stock": 1,
       "order": 16,
-      "active": true
+      "active": false,
+      "category": "Colônias & Perfumes Femininos"
     },
     {
       "id": 75,
       "name": "Eudora H Refresh Desodorante Colônia 100ml",
       "image": "product_75.jpg",
-      "price": 109.90,
+      "price": 109.9,
       "stock": 1,
       "order": 17,
-      "active": true
+      "active": false,
+      "category": "Colônias & Perfumes Femininos"
     },
     {
       "id": 76,
       "name": "Pulse Boost Desodorante Colônia 100ml",
       "image": "product_76.jpg",
-      "price": 84.90,
+      "price": 84.9,
       "stock": 3,
       "order": 18,
-      "active": true
+      "active": false,
+      "category": "Colônias & Perfumes Femininos"
     },
     {
       "id": 77,
       "name": "Natura Homem 100 ml",
       "label": "Com R$ 70,00 de desconto",
       "image": "product_77.jpg",
-      "price": 199.90,
+      "price": 199.9,
       "promo_price": 129.99,
       "stock": 2,
       "order": 19,
-      "active": true
+      "active": false,
+      "category": "Outros"
     },
     {
       "id": 78,
       "name": "Kaiak O2 Masculino 100 ml",
       "image": "product_78.jpg",
-      "price": 185.90,
+      "price": 185.9,
       "stock": 1,
       "order": 20,
-      "active": true
+      "active": false,
+      "category": "Outros"
     },
     {
       "id": 79,
       "name": "Caixa Comemorativa Especial Dia dos Pais 💼🎩🥸   Com Sabonete Natura 90g.",
       "description": "Escolha a do seu pai!!",
       "image": "product_79.jpg",
-      "price": 13.50,
+      "price": 13.5,
       "stock": 60,
       "order": 20,
-      "active": true
+      "active": false,
+      "category": "Presentes & Kits"
     },
     {
       "id": 80,
       "name": "Caixa Comemorativa Especial Dia dos Pais 💼🎩🥸   Com Sabonete Natura 90g.",
       "description": "Escolha a do seu pai!!",
       "image": "product_80.jpg",
-      "price": 13.50,
+      "price": 13.5,
       "stock": 60,
       "order": 20,
-      "active": false
+      "active": false,
+      "category": "Presentes & Kits"
+    },
+    {
+      "id": 81,
+      "name": "Creme acetinado Lilly",
+      "description": "Perfeito para qualquer ocasião",
+      "image": "product_81.jpeg",
+      "price": 149.9,
+      "stock": 3,
+      "order": 21,
+      "active": true,
+      "category": "Cremes"
+    },
+    {
+      "id": 82,
+      "name": "Kit Presente Lily (3 itens)",
+      "description": "Contém\n01 Lily Eau de Parfum 10ml\n01 Creme Acetinado Hidratante Desodorante Corporal Lily 75g\n01 Creme Hidratante Desodorante para Mãos Acetinado Lily 30g",
+      "image": "product_82.jpeg",
+      "price": 169.9,
+      "stock": 1,
+      "order": 22,
+      "active": true,
+      "category": "Kit Presente"
+    },
+    {
+      "id": 83,
+      "name": "Splash Desodorante Colônia Lily 200ml",
+      "image": "product_83.jpeg",
+      "price": 119.9,
+      "stock": 1,
+      "order": 23,
+      "active": true,
+      "category": "Perfumes"
+    },
+    {
+      "id": 84,
+      "name": "Presente Natura Essencial Feminino",
+      "image": "product_84.jpeg",
+      "promo_price": 239.9,
+      "price": 352.0,
+      "stock": 1,
+      "order": 24,
+      "active": true,
+      "category": "Kit Presente"
+    },
+    {
+      "id": 85,
+      "name": "Presente Natura Tododia Flor de Pera e Melissa",
+      "image": "product_85.jpeg",
+      "promo_price": 94.9,
+      "price": 126.2,
+      "stock": 3,
+      "order": 25,
+      "active": true,
+      "category": "Kit Presente"
+    },
+    {
+      "id": 86,
+      "name": "Presente Natura Feliz Dia!",
+      "description": "Contém:\n\n* Body splash desodorante colônia ameixa e flor de baunilha 60 ml\n* Creme desodorante nutritivo para o corpo ameixa e flor de baunilha 80 ml\n* Creme nutritivo para as mãos ameixa e flor de baunilha 50 ml\n\nTudo isso na caixa presenteável!",
+      "image": "",
+      "price": 107.9,
+      "stock": 5,
+      "order": 25,
+      "active": true,
+      "category": "Kit Presente"
+    },
+    {
+      "id": 87,
+      "name": "Presente Natura Ekos Tukumã",
+      "description": "1 Creme desodorante Hidratante para o Corpo 250ml\nExclusivo\n1 Sabonete em barra 100g Exclusivo\n\n1 Envelope para Presente 🎁",
+      "image": "product_87.jpeg",
+      "label": "Pronta entrega",
+      "promo_price": 74.9,
+      "price": 86.7,
+      "stock": 2,
+      "order": 26,
+      "active": true,
+      "category": "Kit Presente"
+    },
+    {
+      "id": 88,
+      "name": "Kit Presente O Boticário Cuide-se Bem Deleite",
+      "description": "Contém:\n\nLoção Desodorante Hidratante 200ml\nDesodorante Colônia 60ml\nHidratante para as mãos 45g",
+      "image": "product_88.jpeg",
+      "price": 99.9,
+      "stock": 1,
+      "order": 27,
+      "active": true,
+      "category": "Kit Presente"
+    },
+    {
+      "id": 89,
+      "name": "Kit Cuide-se Bem Deleite Chocolatudo",
+      "description": "Contém – Loção Hidratante 200ml + Body Splash 60 m | +Gloss Labial 5,5 ml Hidratação",
+      "image": "product_89.jpeg",
+      "price": 129.9,
+      "stock": 1,
+      "order": 28,
+      "active": true,
+      "category": "Kit Presente"
+    },
+    {
+      "id": 90,
+      "name": "Mini Kit Presente Nativa Spa Ameixa (3 itens)\nNativa SPA",
+      "description": "Contém 3  hidratantes com a fragrância irresistível de Nativa Spa Ameixa de 75ml cada, cabem na bolsa, mochila e nécessaire",
+      "image": "product_90.jpeg",
+      "price": 97.9,
+      "stock": 1,
+      "order": 29,
+      "active": true,
+      "category": "Kit Presente"
+    },
+    {
+      "id": 91,
+      "name": "Geléia Iluminadora Corporal Lily Glow 250g",
+      "label":"Pronta entrega",
+      "image": "product_91.jpeg",
+      "price": 189.9,
+      "stock": 2,
+      "order": 30,
+      "active": true,
+      "category": "Cremes"
+    },
+    {
+      "id": 92,
+      "name": "Kit Eudora Frutas Vermelhas: Spray Corporal 75ml + Sabonete em Barra 80g (4 unidades)",
+      "image": "product_92.jpeg",
+      "price": 69.99,
+      "stock": 5,
+      "order": 31,
+      "active": true,
+      "category": "Kit Presente"
+    },
+    {
+      "id": 93,
+      "name": "Combo Eudora Instance Baunilha Intensa com Body Splash 200ml + Creme Hidratante 400ml",
+      "label":"Garanta antes que acabe 🏃‍♀️",
+      "image": "product_93.jpeg",
+      "promo_price": 84.9,
+      "price": 135.88,
+      "stock": 3,
+      "order": 31,
+      "active": true,
+      "category": "Kit Presente"
+    },
+    {
+      "id": 94,
+      "name": "Kit Presente Eudora Instance Rosa Absoluta",
+      "description": "Contém:\n\nSpray Perfumado Desodorante 75ml\nCreme Perfumado para as mãos 30g",
+      "image": "product_94.jpeg",
+      "price": 49.99,
+      "stock": 2,
+      "order": 31,
+      "active": true,
+      "category": "Kit Presente"
+    },
+    {
+      "id": 95,
+      "name": "Bombom Moments Recheado ao Leite Display 140g",
+      "description": "A caixa",
+      "image": "product_95.jpeg",
+      "price": 19.99,
+      "stock": 3,
+      "order": 31,
+      "active": true,
+      "category": "Chocolates & Doces"
+    },
+    {
+      "id": 96,
+      "name": "Kit Presente Especial Egeo Dolce (2 itens)",
+      "description": "contém:\n\n01 Egeo Dolce Desodorante Colônia 50ml\n01 Merengue Mousse Creme Hidratante Desodorante Corporal Egeo Dolce 85g",
+      "image": "product_96.jpeg",
+      "price": 154.9,
+      "stock": 1,
+      "order": 31,
+      "active": true,
+      "category": "Kit Presente"
+    },
+    {
+      "id": 97,
+      "name": "Kit Natura Todo dia Cereja e Avelã",
+      "description": "Contém:\n\nCreme 400ml com sabonete em barra 90g e toalha de mão\n\nNa caixa presenteável. \nLindo para qualquer ocasião !",
+      "label": "Me chame para reservar o seu!",
+      "image": "product_97.jpeg",
+      "price": 89.9,
+      "stock": 2,
+      "order": 31,
+      "active": true,
+      "category": "Kit Presente"
+    },
+    {
+      "id": 98,
+      "name": "Cesta de café da manhã 30cm",
+      "description": "Com 18 itens porta retrato",
+      "image": "product_98.jpeg",
+      "price": 129.9,
+      "stock": 1,
+      "order": 32,
+      "active": true,
+      "category": "Cestas"
+    },
+    {
+     "id": 99,
+      "name": "Cesta de café da manhã 30cm",
+      "description": "Com 18 itens porta retrato",
+      "image": "product_99.jpeg",
+      "price": 129.9,
+      "stock": 1,
+      "order": 33,
+      "active": true,
+      "category": "Cestas" 
+    },
+    {
+      "id": 100,
+      "name": "Cesta de café da manhã 18cm",
+      "description": "10 itens",
+      "image": "product_100.jpeg",
+      "price": 59.9,
+      "stock": 1,
+      "order": 34,
+      "active": true,
+      "category": "Cestas"
+    },
+    {
+      "id": 101,
+      "name": "Cesta de café da manhã 18cm",
+      "description": "10 itens",
+      "image": "product_101.jpeg",
+      "price": 59.9,
+      "stock": 1,
+      "order": 35,
+      "active": true,
+      "category": "Cestas"
+    },
+    {
+      "id": 102,
+      "name": "Cesta de café da Manhã na Caneca",
+      "description": "10 itens",
+      "image": "product_102.jpeg",
+      "price": 39.99,
+      "stock": 1,
+      "order": 36,
+      "active": true,
+      "category": "Cestas"
+    },
+    {
+      "id": 103,
+      "name": "Cesta de café da Manhã na Caneca",
+      "image": "product_103.jpeg",
+      "price": 49.99,
+      "stock": 1,
+      "order": 37,
+      "active": true,
+      "category": "Cestas"
+    },
+    {
+      "id": 104,
+      "name": "Cesta de café da Manhã na Caneca",
+      "image": "product_104.jpeg",
+      "price": 49.99,
+      "stock": 1,
+      "order": 38,
+      "active": true,
+      "category": "Cestas"
+    },
+    {
+      "id": 105,
+      "name": "Cesta de café da Manhã na Caneca",
+      "image": "product_105.jpeg",
+      "price": 39.99,
+      "stock": 1,
+      "order": 39,
+      "active": true,
+      "category": "Cestas"
+    },
+    {
+      "id": 106,
+      "name": "Cesta de café da Manhã",
+      "image": "product_106.jpeg",
+      "price": 69.99,
+      "stock": 1,
+      "order": 39,
+      "active": true,
+      "category": "Cestas"
     }
   ]
 }
