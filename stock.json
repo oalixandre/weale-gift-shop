@@ -968,7 +968,7 @@
       "image": "product_93.jpeg",
       "promo_price": 84.9,
       "price": 135.88,
-      "stock": 3,
+      "stock": 2,
       "order": 31,
       "active": true,
       "category": "Kit Presente"
@@ -1013,7 +1013,7 @@
       "label": "Me chame para reservar o seu!",
       "image": "product_97.jpeg",
       "price": 89.9,
-      "stock": 2,
+      "stock": 1,
       "order": 31,
       "active": true,
       "category": "Kit Presente"
@@ -1433,7 +1433,7 @@
       "name": "O.U.i Loção Hidratante Desodorante Corporal Scapin 245 400ml",
       "image": "product_138.jpeg",
       "price": 119,
-      "stock": 1,
+      "stock": 0,
       "order": 69,
       "active": true,
       "category": "Perfumes Femininos"
