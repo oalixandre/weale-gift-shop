@@ -913,7 +913,7 @@
       "description": "Contém:\n\nLoção Desodorante Hidratante 200ml\nDesodorante Colônia 60ml\nHidratante para as mãos 45g",
       "image": "product_88.jpeg",
       "price": 99.9,
-      "stock": 1,
+      "stock": 0,
       "order": 27,
       "active": true,
       "category": "Kit Presente"
@@ -1096,7 +1096,8 @@
     },
     {
       "id": 105,
-      "name": "Cesta de café da Manhã na Caneca",
+      "name": "Cestas de Café da Manhã na Caneca ☕️",
+      "description": "Contém:\n\n* 1 Caneca de Plástico 430ml estampa especial dia das mães\n* ⁠1 sachê para preparo de Bebida quente ☕️ ( Capuccino sabor chocolate 3 corações ) 20g\n* ⁠1 pacote de biscoito salgado  ( Cream Cracker Renata ) 10g\n* ⁠⁠1 pacote de Cookie doce com gotas de chocolate 🍪 ( Marilan) 10g\n* ⁠1 Torrada Salgada ( Bauducco Fermentação Natural) 15g\n* ⁠⁠1 Manteiga Extra com Sal Vigor em Blister 10g\n* ⁠ ⁠1 Bombom Lacta Sonho de Valsa 20g\n\nReserve já a a sua!!!",
       "image": "product_105.jpeg",
       "price": 39.99,
       "stock": 1,
@@ -1111,7 +1112,7 @@
       "label": "Edição Limitada",
       "image": "product_106.jpeg",
       "price": 69.99,
-      "stock": 1,
+      "stock": 2,
       "order": 39,
       "active": true,
       "category": "Cestas"
@@ -1906,7 +1907,7 @@
       "image": "product_182.jpeg",
       "price": 59,
       "promo_price": 48.1,
-      "stock": 4,
+      "stock": 0,
       "order": 113,
       "active": true,
       "category": "Cremes"
@@ -2045,7 +2046,8 @@
       "stock": 1,
       "order": 126,
       "active": true,
-      "category": "REFIS"
+      "category": "REFIS",
+      "campaigns": ["Black Friday"]
     }
   ]
 } 
