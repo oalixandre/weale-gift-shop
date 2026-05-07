@@ -979,7 +979,7 @@
       "description": "Contém:\n\nSpray Perfumado Desodorante 75ml\nCreme Perfumado para as mãos 30g",
       "image": "product_94.jpeg",
       "price": 49.99,
-      "stock": 2,
+      "stock": 1,
       "order": 31,
       "active": true,
       "category": "Kit Presente"
@@ -1356,7 +1356,7 @@
       "stock": 1,
       "order": 61,
       "active": true,
-      "category": "Perfumes Femininos"
+      "category": "Body Splash"
     },
     {
       "id": 131,
@@ -1366,7 +1366,7 @@
       "stock": 1,
       "order": 62,
       "active": true,
-      "category": "Perfumes Femininos"
+      "category": "Body Splash"
     },
     {
       "id": 132,
@@ -1376,7 +1376,7 @@
       "stock": 1,
       "order": 63,
       "active": true,
-      "category": "Perfumes Femininos"
+      "category": "Body Splash"
     },
     {
       "id": 133,
@@ -1386,7 +1386,7 @@
       "stock": 1,
       "order": 64,
       "active": true,
-      "category": "Perfumes Femininos"
+      "category": "Body Splash"
     },
     {
       "id": 134,
@@ -1779,6 +1779,273 @@
       "order": 101,
       "active": true,
       "category": "Kit Presente"
+    },
+    {
+      "id": 171,
+      "name": "Cestas de Café da Manhã na Caneca ☕",
+      "description": "Contém:\n\n* 1 Caneca de Cerâmica na cor Off white 430ml\n* ⁠1 sachê para preparo de Bebida quente ☕️ ( Capuccino sabor chocolate 3 corações ) 20g\n* ⁠1 pacote de biscoito salgado  ( Cream Cracker Renata ) 10g\n* ⁠⁠1 pacote de Cookie doce com gotas de chocolate 🍪 ( Marilan) 10g\n* ⁠1 Torrada Salgada ( Bauducco Fermentação Natural) 15g\n* ⁠⁠1 Manteiga Extra com Sal Vigor em Blister 10g\n* ⁠ ⁠1 Bombom Lacta Sonho de Valsa 20g",
+      "label": "Reserve já a a sua!!!",
+      "image": "product_171.jpeg",
+      "price": 49.99,
+      "stock": 1,
+      "order": 102,
+      "active": true,
+      "category":"Cestas"
+    },
+    {
+      "id": 172,
+      "name": "Linda Cesta de Café da Manhã 18 cm com 9 iten",
+      "description": "Contém:\n\n* 1 pacote de Cookie doce com gotas de chocolate 🍪 (Marilan) 10g\n* 1 sachê para preparo de Bebida quente ☕️ ( Capuccino 3 corações ) 20g\n* 1 pacote de biscoito salgado  ( Cream Cracker Renata ) 10g\n* 1 pacote de biscoito doce Mini Maizena feito com farinha láctea (Marilan ) 10g\n* ⁠1 Manteiga Extra com Sal Vigor em Blister 10g\n* 1 Bombom Lacta Ouro Branco 20g envolto em forma de rosas\n* 1 Bombom Lacta Sonho de Valsa 20g\n* 1 Amendom salgado sem casca 24g\n* 1 Chaveiro com Pingente Ursinho de Película na cor Off white\n\nSua mãe vai amar!! ",
+      "label": "Reserve já a a sua!!!",
+      "image": "product_172.jpeg",
+      "price": 59.99,
+      "stock": 1,
+      "order": 103,
+      "active": true,
+      "category": "Cestas"
+    },
+    {
+      "id": 173,
+      "name": "Linda Cesta de Café da Manhã 30cm com 20 itens",
+      "description": "Contém:\n\n* 1 Porta Retrato Especial dia das mães\n* 2 pacotes de Cookies doces com gotas de chocolate 🍪 (Marilan) 10g\n* 2 sachês para preparo de Bebida quente ☕️ ( Capuccino 3 corações ) 20g\n* 2 Torradas Salgadas (Balducco Fermentação Natural) 15g\n* 2 pacotes de biscoito salgado  ( Cream Cracker Renata ) 10g\n* 2 pacotes de biscoito doce Mini Maizena feito com farinha láctea (Marilan ) 10g\n* ⁠1 Manteiga Extra com Sal Vigor em Blister 10g\n* 3 Bombons Lacta Ouro Branco 20g envoltos em formas de rosas\n* 2 Bombons Lacta Sonho de Valsa 20g\n* 2 Amendoins salgados sem casca\n* 1 Chaveiro com Pingente Ursinho de pelúcia na cor Bege\n\nSua mãe vai amar!!",
+      "label": "Reserve já a a sua!!!",
+      "image": "product_173.jpeg",
+      "price": 134.99,
+      "stock": 1,
+      "order": 104,
+      "active": true,
+      "category": "Cestas"
+    },
+    {
+      "id": 174,
+      "name": "Linda Cesta de Café da Manhã Especial Dia das Mães",
+      "description": "Contém:\n\n* 1 Pote de Mantimento com tampa (Personalizado Mãe para armazenar açúcar, café, farinha, etc) 2L\n* ⁠1 sachê para preparo de Bebida quente ☕️ ( Capuccino 3 corações ) 20g\n* ⁠1 pacote de biscoito salgado  ( Cream Cracker Renata ) 10g\n* ⁠1 pacote de biscoito doce Mini Maizena feito com farinha láctea\n(Marilan ) 10g\n* ⁠1 Torrada Salgada ( Bauducco Fermentação Natural) 15g\n* ⁠1 Manteiga Extra com Sal Vigor em Blister 10g\n* ⁠1 Bombom Lacta Ouro Branco 20g\n* ⁠1 Bombom Lacta Sonho de Valsa 20g\n* 1 Amendoim salgado sem casca\n* 1 Chaveiro com Pingente Ursinho de pelúcia na cor Rosa\n\nReserve já a a sua!!!",
+      "label": "Sua mãe vai amar!!",
+      "image": "product_174.jpeg",
+      "price": 69.99,
+      "stock": 1,
+      "order": 105,
+      "active": true,
+      "category": "Cestas"
+    },
+    {
+      "id": 175,
+      "name": "Body Splash Desodorante Colônia Instance Baunilha Intensa 200ml",
+      "image": "product_175.jpeg",
+      "price": 69.99, 
+      "stock": 1,
+      "order": 106,
+      "active": true,
+      "category": "Body Splash"
+    },
+    {
+      "id": 176,
+      "name": "Body Splash Desodorante Colônia Cuide-se Bem Nuvem 200ml",
+      "image": "product_176.jpeg",
+      "price": 92.9, 
+      "stock": 1,
+      "order": 107,
+      "active": true,
+      "category": "Body Splash"
+    },
+    {
+      "id": 177,
+      "name": "Loção Hidratante Desodorante Corporal Cuide-se Bem Deleite 400ml",
+      "label": "Pronta Entrega",
+      "image": "product_177.jpeg",
+      "price": 74.9, 
+      "stock": 15,
+      "order": 108,
+      "active": true,
+      "category": "Cremes"
+    },
+    {
+      "id": 178,
+      "name": "Loção Hidratante Desodorante Corporal Boticário Cuide-se Bem Nuvem 400ml",
+      "image": "product_178.jpeg",
+      "price": 74.9, 
+      "stock": 3,
+      "order": 109,
+      "active": true,
+      "category": "Cremes"
+    },
+    {
+      "id": 179,
+      "name": "Creme Desodorante Nutritivo para o Corpo Tododia Cereja e Avelã 400ml",
+      "image": "product_179.jpeg",
+      "price": 78.9,
+      "promo_price": 69.99,
+      "stock": 1,
+      "order": 110,
+      "active": true,
+      "category": "Cremes"
+    },
+    {
+      "id": 180,
+      "name": "O.U.i Loção Hidratante Desodorante Corporal Madeleine 862 400ml",
+      "image": "product_180.jpeg",
+      "price": 134.9,
+      "stock": 1,
+      "order": 111,
+      "active": true,
+      "category": "Cremes"
+    },
+    {
+      "id": 181,
+      "name": "Body Splash Desodorante Colônia Instance Pistacchio 200ml",
+      "image": "product_181.jpeg",
+      "price": 74.99,
+      "stock": 1,
+      "order": 112,
+      "active": true,
+      "category": "Body Splash"
+    },
+    {
+      "id": 182,
+      "name": "Creme Hidratante Desodorante Corporal Eudora Instance Rosa Absoluta 400ml",
+      "image": "product_182.jpeg",
+      "price": 59,
+      "promo_price": 48.1,
+      "stock": 4,
+      "order": 113,
+      "active": true,
+      "category": "Cremes"
+    },
+    {
+      "id": 183,
+      "name": "Creme Desodorante Nutritivo Para o Corpo Tododia Macadâmia 400 ml",
+      "image": "product_183.jpeg",
+      "price": 78.9,
+      "promo_price": 69.99,
+      "stock": 1,
+      "order": 114,
+      "active": true,
+      "category": "Cremes"
+    },
+    {
+      "id": 184,
+      "name": "Creme Sorbet Desodorante Nutritivo para o Corpo Tododia Amora e Flor de Pêssego 400ml",
+      "image": "product_184.jpeg",
+      "price": 78.9,
+      "promo_price": 69.99,
+      "stock": 1,
+      "order": 115,
+      "active": true,
+      "category": "Cremes"
+    },
+    {
+      "id": 185,
+      "name": "Creme Desodorante Nutritivo para o Corpo Tododia Ameixa e Flor de Baunilha 400ml",
+      "image": "product_185.jpeg",
+      "price": 78.9,
+      "promo_price": 69.99,
+      "stock": 1,
+      "order": 116,
+      "active": true,
+      "category": "Cremes"
+    },
+    {
+      "id": 186,
+      "name": "Creme Hidratante TodoDia Energia Flor de Gengibre e Tangerina 400ml",
+      "image": "product_186.jpeg",
+      "price": 78.9,
+      "promo_price": 69.99,
+      "stock": 1,
+      "order": 117,
+      "active": true,
+      "category": "Cremes"
+    },
+    {
+      "id": 187,
+      "name": "Refil Creme Desodorante Nutritivo para o Corpo Tododia Cereja e Avelã 400ml",
+      "image": "product_187.jpeg",
+      "price": 58.9,
+      "stock": 1,
+      "order": 118,
+      "active": true,
+      "category": "REFIS"
+    },
+    {
+      "id": 188,
+      "name": "Refil Creme Desodorante Nutritivo Corporal Tododia Macadâmia 400ml",
+      "image": "product_188.jpeg",
+      "price": 58.9,
+      "stock": 1,
+      "order": 119,
+      "active": true,
+      "category": "REFIS"
+    },
+    {
+      "id": 189,
+      "name": "Refil Creme Desodorante Hidratante Corporal Acetinado Elysée Blanc 200g",
+      "image": "product_189.jpeg",
+      "price": 99.9,
+      "stock": 1,
+      "order": 120,
+      "active": true,
+      "category": "REFIS"
+    },
+    {
+      "id": 190,
+      "name": "Refil Creme Acetinado Hidratante Desodorante Corporal Lily 250g",
+      "image": "product_190.jpeg",
+      "price": 99.9,
+      "promo_price": 73.9,
+      "stock": 2,
+      "order": 121,
+      "active": true,
+      "category": "REFIS"
+    },
+    {
+      "id": 191,
+      "name": "Refil Desodorante Hidratante Corporal Perfumado Essencial Oud 200g",
+      "image": "product_191.jpeg",
+      "price": 99.9,
+      "stock": 1,
+      "order": 122,
+      "active": true,
+      "category": "REFIS"
+    },
+    {
+      "id": 192,
+      "name": "Creme Perfumado Desodorante Nativa SPA Orquídea Lumière 400ml",
+      "image": "product_192.jpeg",
+      "price": 86.9,
+      "stock": 2,
+      "order": 123,
+      "active": true,
+      "category": "Cremes"
+    },
+    {
+      "id": 193,
+      "name": "Loção Hidratante Desodorante Corporal Nativa SPA Ameixa 400ml",
+      "image": "product_193.jpeg",
+      "price": 89.9,
+      "stock": 1,
+      "order": 124,
+      "active": true,
+      "category": "Cremes"
+    },
+    {
+      "id": 194,
+      "name": "Refil Loção Desodorante Hidratante Corporal Nativa SPA Ameixa 400ml",
+      "image": "product_194.jpeg",
+      "price": 67.9,
+      "stock": 1,
+      "order": 125,
+      "active": true,
+      "category": "REFIS"
+    },
+    {
+      "id": 195,
+      "name": "Refil Loção Aveludada Desodorante Corporal Nativa Spa Cereja Rouge 350ml",
+      "image": "product_195.jpeg",
+      "price": 67.9,
+      "promo_price": 54.9,
+      "stock": 1,
+      "order": 126,
+      "active": true,
+      "category": "REFIS"
     }
   ]
 } 
