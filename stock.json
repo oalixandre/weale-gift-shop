@@ -1023,7 +1023,7 @@
       "name": "Linda Cesta de Café da Manhã 30cm com 20 itens",
       "description": "Contém:\n\n* 1 Porta Retrato Especial dia das mães\n* 2 pacotes de Cookies doces com gotas de chocolate 🍪 (Marilan) 10g\n* 2 sachês para preparo de Bebida quente ☕️ ( Capuccino 3 corações ) 20g\n* 2 Torradas Salgadas (Balducco Fermentação Natural) 15g\n* 2 pacotes de biscoito salgado  ( Cream Cracker Renata ) 10g\n* 2 pacotes de biscoito doce Mini Maizena feito com farinha láctea (Marilan ) 10g\n* ⁠1 Manteiga Extra com Sal Vigor em Blister 10g\n* 3 Bombons Lacta Ouro Branco 20g envoltos em formas de rosas\n* 2 Bombons Lacta Sonho de Valsa 20g\n* 2 Amendoins salgados sem casca\n* 1 Chaveiro com Pingente Ursinho de pelúcia na cor Bege\n\nSua mãe vai amar!!\nReserve já a a sua!!!",
       "image": "product_98.jpeg",
-      "price": 74.99,
+      "price": 129.9,
       "stock": 1,
       "order": 32,
       "active": true,
@@ -1708,7 +1708,7 @@
       "stock": 1,
       "order": 94,
       "active": true,
-      "category": "Kit Presente"
+      "category": "Sabonetes"
     },
     {
       "id": 164,
@@ -1718,7 +1718,7 @@
       "stock": 1,
       "order": 95,
       "active": true,
-      "category": "Kit Presente"
+      "category": "Sabonetes"
     },
     {
       "id": 165,
@@ -1728,7 +1728,7 @@
       "stock": 1,
       "order": 96,
       "active": true,
-      "category": "Kit Presente"
+      "category": "Sabonetes"
     },
     {
       "id": 166,
@@ -1748,7 +1748,7 @@
       "stock": 1,
       "order": 98,
       "active": true,
-      "category": "Kit Presente"
+      "category": "Sabonetes"
     },
     {
       "id": 168,
@@ -1768,7 +1768,7 @@
       "stock": 1,
       "order": 100,
       "active": true,
-      "category": "Kit Presente"
+      "category": "Sabonetes"
     },
     {
       "id": 170,
@@ -1778,7 +1778,7 @@
       "stock": 1,
       "order": 101,
       "active": true,
-      "category": "Kit Presente"
+      "category": "Sabonetes"
     },
     {
       "id": 171,
@@ -1811,7 +1811,7 @@
       "label": "Reserve já a a sua!!!",
       "image": "product_173.jpeg",
       "price": 134.99,
-      "stock": 1,
+      "stock": 0,
       "order": 104,
       "active": true,
       "category": "Cestas"
@@ -2057,7 +2057,7 @@
       "stock": 25,
       "order": 126,
       "active": true,
-      "category": "Lembrancinhas"
+      "category": ["Sabonetes", "Lembrancinhas"]
     }
   ]
 } 
