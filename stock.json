@@ -859,7 +859,7 @@
       "stock": 1,
       "order": 23,
       "active": true,
-      "category": "Perfumes"
+      "category": "Body Splash"
     },
     {
       "id": 84,
@@ -968,7 +968,7 @@
       "image": "product_93.jpeg",
       "promo_price": 84.9,
       "price": 135.88,
-      "stock": 2,
+      "stock": 1,
       "order": 31,
       "active": true,
       "category": "Kit Presente"
@@ -1163,7 +1163,7 @@
       "name": "Floratta Rose Desodorante Colônia Feminina 75ml",
       "image": "product_111.jpeg",
       "price": 164.9,
-      "stock": 3,
+      "stock": 2,
       "order": 42,
       "active": true,
       "category": "Perfumes Femininos"
@@ -1233,7 +1233,7 @@
       "name": "Egeo Dolce Desodorante Colônia Feminina 90ml",
       "image": "product_118.jpeg",
       "price": 159.9,
-      "stock": 1,
+      "stock": 0,
       "order": 49,
       "active": true,
       "category": "Perfumes Femininos"
@@ -1548,8 +1548,7 @@
       "name": "Boticolecttion Connexion Desodorante Masculino Colônia 100ml",
       "label": "Pronta Entrega 🚚 📦",
       "image": "product_149.jpeg",
-      "price": 174.9,
-      "promo_price": 139.9,
+      "price": 164.9,
       "stock": 1,
       "order": 80,
       "active": true,
@@ -2046,8 +2045,19 @@
       "stock": 1,
       "order": 126,
       "active": true,
-      "category": "REFIS",
-      "campaigns": ["Black Friday"]
+      "category": "REFIS"
+    },
+    {
+      "id": 196,
+      "name": "Caixa Comemorativa Feliz Dia das Mães",
+      "description": "Com sabonete Individual Natura Todo Dia",
+      "label": "Reserve já a sua!",
+      "image": "product_196.jpeg",
+      "price": 13.99,
+      "stock": 25,
+      "order": 126,
+      "active": true,
+      "category": "Lembrancinhas"
     }
   ]
 } 
