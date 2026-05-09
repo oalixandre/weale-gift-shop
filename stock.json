@@ -956,7 +956,7 @@
       "name": "Kit Eudora Frutas Vermelhas: Spray Corporal 75ml + Sabonete em Barra 80g (4 unidades)",
       "image": "product_92.jpeg",
       "price": 69.99,
-      "stock": 5,
+      "stock": 4,
       "order": 31,
       "active": true,
       "category": "Kit Presente"
@@ -1284,7 +1284,7 @@
       "name": "Desodorante Colônia Luna Feminino 75 ml",
       "image": "product_123.jpeg",
       "price": 185.9,
-      "stock": 2,
+      "stock": 1,
       "order": 54,
       "active": true,
       "category": "Perfumes Femininos"
@@ -1684,7 +1684,7 @@
       "description": "Contém:\n\n* 1 Creme Desodorante Nutritivo para o corpo 80ml\n* ⁠Sabonete em Barra Puro Vegetal 90g\n* ⁠Embalagem de Presente P (Parabéns)",
       "image": "product_161.jpeg",
       "price": 39.99,
-      "stock": 3,
+      "stock": 0,
       "order": 92,
       "active": true,
       "category": "Kit Presente"
@@ -1695,7 +1695,7 @@
       "image": "product_162.jpeg",
       "price": 139.9,
       "promo_price": 89.99,
-      "stock": 1,
+      "stock": 5,
       "order": 93,
       "active": true,
       "category": "Kit Presente"
@@ -2054,10 +2054,22 @@
       "label": "Reserve já a sua!",
       "image": "product_196.jpeg",
       "price": 13.99,
-      "stock": 25,
+      "stock": 23,
       "order": 126,
       "active": true,
       "category": ["Sabonetes", "Lembrancinhas"]
+    },
+    {
+      "id": 197,
+      "name": "Presente Natura TodoDia Algodão",
+      "description": "1 Body Splash Desodorante Colônia 200ml\n1 Creme Desodorante Nutritivo para o Corpo 400ml\n1 Caixa de Sabonete em Barra Puro Vegetal com 5 unidades de 90g cada.",
+      "image": "product_197.jpeg",
+      "price": 207.7,
+      "promo_price": 139.9,
+      "stock": 4,
+      "order": 127,
+      "active": true,
+      "category": "Kit Presente"
     }
   ]
 } 
