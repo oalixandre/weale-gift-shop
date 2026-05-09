@@ -835,7 +835,7 @@
       "description": "Perfeito para qualquer ocasião",
       "image": "product_81.jpeg",
       "price": 149.9,
-      "stock": 3,
+      "stock": 2,
       "order": 21,
       "active": true,
       "category": "Cremes"
@@ -878,7 +878,7 @@
       "image": "product_85.jpeg",
       "promo_price": 94.9,
       "price": 126.2,
-      "stock": 3,
+      "stock": 2,
       "order": 25,
       "active": true,
       "category": "Kit Presente"
@@ -968,7 +968,7 @@
       "image": "product_93.jpeg",
       "promo_price": 84.9,
       "price": 135.88,
-      "stock": 1,
+      "stock": 0,
       "order": 31,
       "active": true,
       "category": "Kit Presente"
@@ -1057,7 +1057,7 @@
       "description": "Contém:\n\n* 1 pacote de Cookie doce com gotas de chocolate 🍪 (Marilan) 10g\n* 1 sachê para preparo de Bebida quente ☕️ ( Capuccino 3 corações ) 20g\n* 1 pacote de biscoito salgado  ( Cream Cracker Renata ) 10g\n* 1 pacote de biscoito doce Mini Maizena feito com farinha láctea (Marilan ) 10g\n* ⁠1 Manteiga Extra com Sal Vigor em Blister 10g\n* 1 Bombom Lacta Ouro Branco 20g envolto em forma de rosas\n* 1 Bombom Lacta Sonho de Valsa 20g\n* 1 Amendom salgado sem casca\n* 1 Ursinho de espuma Branco e Lilás\n\nSua mãe vai amar!!\nReserve já a a sua!!!",
       "image": "product_101.jpeg",
       "price": 59.9,
-      "stock": 1,
+      "stock": 0,
       "order": 35,
       "active": true,
       "category": "Cestas"
@@ -1069,7 +1069,7 @@
       "label": "Reserve já a a sua!!!",
       "image": "product_102.jpeg",
       "price": 49.99,
-      "stock": 8,
+      "stock": 7,
       "order": 36,
       "active": true,
       "category": "Cestas"
@@ -2054,7 +2054,7 @@
       "label": "Reserve já a sua!",
       "image": "product_196.jpeg",
       "price": 13.99,
-      "stock": 23,
+      "stock": 21,
       "order": 126,
       "active": true,
       "category": ["Sabonetes", "Lembrancinhas"]
