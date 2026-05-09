@@ -1024,7 +1024,7 @@
       "description": "Contém:\n\n* 1 Porta Retrato Especial dia das mães\n* 2 pacotes de Cookies doces com gotas de chocolate 🍪 (Marilan) 10g\n* 2 sachês para preparo de Bebida quente ☕️ ( Capuccino 3 corações ) 20g\n* 2 Torradas Salgadas (Balducco Fermentação Natural) 15g\n* 2 pacotes de biscoito salgado  ( Cream Cracker Renata ) 10g\n* 2 pacotes de biscoito doce Mini Maizena feito com farinha láctea (Marilan ) 10g\n* ⁠1 Manteiga Extra com Sal Vigor em Blister 10g\n* 3 Bombons Lacta Ouro Branco 20g envoltos em formas de rosas\n* 2 Bombons Lacta Sonho de Valsa 20g\n* 2 Amendoins salgados sem casca\n* 1 Chaveiro com Pingente Ursinho de pelúcia na cor Bege\n\nSua mãe vai amar!!\nReserve já a a sua!!!",
       "image": "product_98.jpeg",
       "price": 129.9,
-      "stock": 1,
+      "stock": 0,
       "order": 32,
       "active": true,
       "category": "Cestas"
@@ -1035,7 +1035,7 @@
       "description": "Com 18 itens porta retrato",
       "image": "product_99.jpeg",
       "price": 129.9,
-      "stock": 1,
+      "stock": 0,
       "order": 33,
       "active": true,
       "category": "Cestas" 
@@ -1064,12 +1064,12 @@
     },
     {
       "id": 102,
-      "name": "Cestas de Café da Manhã na Caneca ☕️ Especial dia das Mães",
-      "description": "Contém:\n\n* 1 Caneca de Plástico  (Personalizada com Frases em homenagem às mães) 430ml\n* ⁠1 sachê para preparo de Bebida quente ☕️ ( Capuccino sabor chocolate 3 corações ) 20g\n* ⁠1 pacote de biscoito salgado  ( Cream Cracker Renata ) 10g\n* ⁠⁠1 pacote de Cookie doce com gotas de chocolate 🍪 ( Marilan) 10g\n* ⁠1 Torrada Salgada ( Bauducco Fermentação Natural) 15g\n* ⁠⁠1 Manteiga Extra com Sal Vigor em Blister 10g\n* ⁠⁠1 Bombom Lacta Sonho de Valsa 20g\n\n Lindas cores ❤️💙💖\nReserve já a a sua!!!",
-      "label": "Edição Limitada",
+      "name": "Cestas de Café da Manhã na Caneca ☕️",
+      "description": "Contém:\n\n* 1 Caneca de Cerâmica na cor Off white 430ml\n* ⁠1 sachê para preparo de Bebida quente ☕️ ( Capuccino sabor chocolate 3 corações ) 20g\n* ⁠1 pacote de biscoito salgado  ( Cream Cracker Renata ) 10g\n* ⁠⁠1 pacote de Cookie doce com gotas de chocolate 🍪 ( Marilan) 10g\n* ⁠1 Torrada Salgada ( Bauducco Fermentação Natural) 15g\n* ⁠⁠1 Manteiga Extra com Sal Vigor em Blister 10g\n* ⁠ ⁠1 Bombom Lacta Sonho de Valsa 20g",
+      "label": "Reserve já a a sua!!!",
       "image": "product_102.jpeg",
-      "price": 39.99,
-      "stock": 1,
+      "price": 49.99,
+      "stock": 8,
       "order": 36,
       "active": true,
       "category": "Cestas"
@@ -1223,7 +1223,7 @@
       "name": "Linda Irresistível Desodorante Colônia Feminina 100ml",
       "image": "product_117.jpeg",
       "price": 209.9,
-      "stock": 1,
+      "stock": 0,
       "order": 48,
       "active": true,
       "category": "Perfumes Femininos"
@@ -1243,7 +1243,7 @@
       "name": "Boticollection Cecita Desodorante Colônia Feminina 100ml",
       "image": "product_119.jpeg",
       "price": 174.9,
-      "stock": 1,
+      "stock": 0,
       "order": 50,
       "active": true,
       "category": "Perfumes Femininos"
