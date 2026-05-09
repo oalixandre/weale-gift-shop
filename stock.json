@@ -835,7 +835,7 @@
       "description": "Perfeito para qualquer ocasião",
       "image": "product_81.jpeg",
       "price": 149.9,
-      "stock": 2,
+      "stock": 1,
       "order": 21,
       "active": true,
       "category": "Cremes"
@@ -1445,7 +1445,7 @@
       "name": "Ekos Frescor com Aromático de Maracujá Natureza dos Sonhos 150 ml",
       "image": "product_139.jpeg",
       "price": 124.9,
-      "stock": 1,
+      "stock": 0,
       "order": 70,
       "active": true,
       "category": "Perfumes Femininos"
