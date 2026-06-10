@@ -1001,7 +1001,7 @@
       "description": "contém:\n\n01 Egeo Dolce Desodorante Colônia 50ml\n01 Merengue Mousse Creme Hidratante Desodorante Corporal Egeo Dolce 85g",
       "image": "product_96.jpeg",
       "price": 154.9,
-      "stock": 1,
+      "stock": 0,
       "order": 31,
       "active": true,
       "category": "Kit Presente"
@@ -1043,7 +1043,7 @@
     {
       "id": 100,
       "name": "Linda Cesta de Café da Manhã 18 cm com  9 itens",
-      "description": "Contém:\n\n* 1 pacote de Cookie doce com gotas de chocolate 🍪 (Marilan) 10g\n* 1 sachê para preparo de Bebida quente ☕️ ( Capuccino 3 corações ) 20g\n* 1 pacote de biscoito salgado  ( Cream Cracker Renata ) 10g\n* 1 pacote de biscoito doce Mini Maizena feito com farinha láctea (Marilan ) 10g\n* ⁠1 Manteiga Extra com Sal Vigor em Blister 10g\n* 1 Bombom Lacta Ouro Branco 20g envolto em forma de rosas\n* 1 Bombom Lacta Sonho de Valsa 20g\n* 1 Amendom salgado sem casca 24g\n* 1 Chaveiro com Pingente Ursinho de Película na cor Off white\n\nSua mãe vai amar!!\nReserve já a sua!!!",
+      "description": "Contém:\n\n* 1 pacote de Cookie doce com gotas de chocolate 🍪 (Marilan) 10g\n* 1 sachê para preparo de Bebida quente ☕️ ( Capuccino 3 corações ) 20g\n* 1 pacote de biscoito salgado  ( Cream Cracker Renata ) 10g\n* 1 pacote de biscoito doce Mini Maizena feito com farinha láctea (Marilan ) 10g\n* ⁠1 Manteiga Extra com Sal Vigor em Blister 10g\n* 1 Bombom Lacta Ouro Branco 20g envolto em forma de rosas\n* 1 Bombom Lacta Sonho de Valsa 20g\n* 1 Amendom salgado sem casca 24g\n* 1 Chaveiro com Pingente Ursinho de Película na cor Off white\n\nReserve já a sua!!!",
       "image": "product_100.jpeg",
       "price": 59.99,
       "stock": 1,
@@ -1071,7 +1071,7 @@
       "price": 49.99,
       "stock": 7,
       "order": 36,
-      "active": true,
+      "active": false,
       "category": "Cestas"
     },
     {
@@ -1091,7 +1091,7 @@
       "price": 49.99,
       "stock": 1,
       "order": 38,
-      "active": true,
+      "active": false,
       "category": "Cestas"
     },
     {
@@ -1102,7 +1102,7 @@
       "price": 39.99,
       "stock": 1,
       "order": 39,
-      "active": true,
+      "active": false,
       "category": "Cestas"
     },
     {
@@ -1354,9 +1354,9 @@
       "name": "Desodorante Body Spray Eudora Lyra 100ml",
       "image": "product_130.jpeg",
       "price": 44.99,
-      "stock": 1,
+      "stock": 0,
       "order": 61,
-      "active": true,
+      "active": false,
       "category": "Body Splash"
     },
     {
@@ -1563,7 +1563,7 @@
       "price": 79.9,
       "stock": 1,
       "order": 81,
-      "active": true,
+      "active": false,
       "category": "Perfumes Masculinos"
     },
     {
@@ -1616,7 +1616,7 @@
       "price": 69.99,
       "stock": 1,
       "order": 86,
-      "active": true,
+      "active": false,
       "category": "Perfumes Masculinos"
     },
     {
@@ -1650,7 +1650,6 @@
       "label": "Imperdível!!!",
       "image": "product_158.jpeg",
       "price": 209.9,
-      "promo_price": 184.90,
       "stock": 1,
       "order": 89,
       "active": true,
@@ -1789,13 +1788,13 @@
       "price": 49.99,
       "stock": 1,
       "order": 102,
-      "active": true,
+      "active": false,
       "category":"Cestas"
     },
     {
       "id": 172,
       "name": "Linda Cesta de Café da Manhã 18 cm com 9 iten",
-      "description": "Contém:\n\n* 1 pacote de Cookie doce com gotas de chocolate 🍪 (Marilan) 10g\n* 1 sachê para preparo de Bebida quente ☕️ ( Capuccino 3 corações ) 20g\n* 1 pacote de biscoito salgado  ( Cream Cracker Renata ) 10g\n* 1 pacote de biscoito doce Mini Maizena feito com farinha láctea (Marilan ) 10g\n* ⁠1 Manteiga Extra com Sal Vigor em Blister 10g\n* 1 Bombom Lacta Ouro Branco 20g envolto em forma de rosas\n* 1 Bombom Lacta Sonho de Valsa 20g\n* 1 Amendom salgado sem casca 24g\n* 1 Chaveiro com Pingente Ursinho de Película na cor Off white\n\nSua mãe vai amar!! ",
+      "description": "Contém:\n\n* 1 pacote de Cookie doce com gotas de chocolate 🍪 (Marilan) 10g\n* 1 sachê para preparo de Bebida quente ☕️ ( Capuccino 3 corações ) 20g\n* 1 pacote de biscoito salgado  ( Cream Cracker Renata ) 10g\n* 1 pacote de biscoito doce Mini Maizena feito com farinha láctea (Marilan ) 10g\n* ⁠1 Manteiga Extra com Sal Vigor em Blister 10g\n* 1 Bombom Lacta Ouro Branco 20g envolto em forma de rosas\n* 1 Bombom Lacta Sonho de Valsa 20g\n* 1 Amendom salgado sem casca 24g\n* 1 Chaveiro com Pingente Ursinho de Película na cor Off white",
       "label": "Reserve já a a sua!!!",
       "image": "product_172.jpeg",
       "price": 59.99,
@@ -1825,7 +1824,7 @@
       "price": 69.99,
       "stock": 1,
       "order": 105,
-      "active": true,
+      "active": false,
       "category": "Cestas"
     },
     {
@@ -2070,6 +2069,63 @@
       "order": 127,
       "active": true,
       "category": "Kit Presente"
+    },
+    {
+      "id": 198,
+      "name": "Placa para fotos",
+      "image": "product_198.jpeg",
+      "price": 39.9,
+      "stock": 1,
+      "order": 128,
+      "active": true,
+      "category": "Placas"
+    },
+    {
+      "id": 199,
+      "name": "Macacão para animais de porte pequeno ",
+      "description": "Adequado para cães e gato\nNovo, na etiqueta\nTamanho XS menor que 3kg",
+      "label": "Na etiqueta",
+      "image": "product_199.jpeg",
+      "price": 27.99,
+      "stock": 1,
+      "order": 129,
+      "active": true,
+      "category": "Pet-shop"
+    },
+    {
+      "id": 200,
+      "name": "Macacão para animais de porte pequeno ",
+      "description": "Tamanho XS menor que 3kg",
+      "label": "Nova",
+      "image": "product_200.jpeg",
+      "price": 47.61,
+      "stock": 1,
+      "order": 130,
+      "active": true,
+      "category": "Pet-shop"
+    },
+    {
+      "id": 201,
+      "name": "Roupa pelúcia para animais de porte pequeno ",
+      "description": "Tamanho S na cor cinza\nPode ser usado frente e verso, com fixação de guia, adequado para cães e gatos",
+      "label": "Nova",
+      "image": "product_201.jpeg",
+      "price": 39.9,
+      "stock": 1,
+      "order": 131,
+      "active": true,
+      "category": "Pet-shop"
+    },
+    {
+      "id": 202,
+      "name": "Cesta de Chocolate na Caneca Dia dos Namorados",
+      "description": "Dia Dos Namorados Chegando, Surpreenda quem você Ama com uma linda Cesta de Chocolate na Caneca. Contém:\n1 Caneca de Plástico escrito “Te Amo mais que Chocolate”\n1 Kit Kat 41,5g\n1 Bombom Lacta Ouro Branco\n1 Chaveiro de Ursinho",
+      "image": "product_202.jpeg",
+      "price": 37,
+      "stock": 1,
+      "order": 132,
+      "active": true,
+      "category": "Cestas"
     }
   ]
 } 
