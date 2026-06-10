@@ -2126,6 +2126,17 @@
       "order": 132,
       "active": true,
       "category": "Cestas"
+    },
+    {
+      "id": 203,
+      "name": "Cestas de Café da Manhã na Caneca ☕️",
+      "description": "Contém:\n\n* 1 Caneca de Cerâmica na cor Off white 430ml\n* ⁠1 sachê para preparo de Bebida quente ☕️ ( Capuccino sabor chocolate 3 corações ) 20g\n* ⁠1 pacote de biscoito salgado  ( Cream Cracker Renata ) 10g\n* ⁠⁠1 pacote de Cookie doce com gotas de chocolate 🍪 ( Marilan) 10g\n* ⁠1 Torrada Salgada ( Bauducco Fermentação Natural) 15g\n* ⁠⁠1 Manteiga Extra com Sal Vigor em Blister 10g\n* ⁠ ⁠1 Bombom Lacta Sonho de Valsa 20g\n\nReserve já a sua!!!",
+      "image": "product_203.jpeg",
+      "price": 59.9,
+      "stock": 4,
+      "order": 133,
+      "active": true,
+      "category": "Cestas"
     }
   ]
 } 
