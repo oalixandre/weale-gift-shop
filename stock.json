@@ -2147,6 +2147,28 @@
       "order": 134,
       "active": true,
       "category": "Body Splash"
+    },
+    {
+      "id": 205,
+      "name": "Kit Presente Malbec Body Spray",
+      "image": "product_205.jpeg",
+      "price": 79.9,
+      "stock": 4,
+      "order": 135,
+      "active": true,
+      "category": "Kit Presente"
+    },
+    {
+      "id": 206,
+      "name": "Presente Café Multi Coffee",
+      "description": "Contém:\n\nPaleta de Sombras\nEsmalte Latte\n1 Sacola de Presente Exclusiva",
+      "image": "product_206.jpeg",
+      "price": 70.47,
+      "promo_price": 51.9,
+      "stock": 5,
+      "order": 136,
+      "active": true,
+      "category": "Kit Presente"
     }
   ]
 } 
