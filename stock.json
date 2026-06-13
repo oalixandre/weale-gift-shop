@@ -2087,7 +2087,7 @@
       "label": "Na etiqueta",
       "image": "product_199.jpeg",
       "price": 27.99,
-      "stock": 1,
+      "stock": 0,
       "order": 129,
       "active": true,
       "category": "Pet-shop"
@@ -2111,7 +2111,7 @@
       "label": "Nova",
       "image": "product_201.jpeg",
       "price": 39.9,
-      "stock": 1,
+      "stock": 0,
       "order": 131,
       "active": true,
       "category": "Pet-shop"
@@ -2167,6 +2167,94 @@
       "promo_price": 51.9,
       "stock": 5,
       "order": 136,
+      "active": true,
+      "category": "Kit Presente"
+    },
+     {
+      "id": 207,
+      "name": "Natura Luna Radiante",
+      "image": "product_207.jpeg",
+      "price": 185.9,
+      "promo_price": 125.9,
+      "stock": 1,
+      "order": 137,
+      "active": true,
+      "category": "Pergumes Femininos"
+    },
+    {
+      "id": 208,
+      "name": "Body Splash Natura Luna",
+      "image": "product_208.jpeg",
+      "price": 92.9,
+      "promo_price": 64.9,
+      "stock": 1,
+      "order": 137,
+      "active": true,
+      "category": "Body Splash"
+    },
+    {
+      "id": 209,
+      "name": "Body Splash Natura Luna",
+      "image": "product_209.jpeg",
+      "price": 92.9,
+      "promo_price": 64.9,
+      "stock": 1,
+      "order": 137,
+      "active": true,
+      "category": "Body Splash"
+    },
+    {
+      "id": 210,
+      "name": "Kit Sabonete em barra tododia com 4 caixas",
+      "image": "product_210.jpeg",
+      "price": 139.6,
+      "promo_price": 114.9,
+      "stock": 1,
+      "order": 137,
+      "active": true,
+      "category": "Sabonetes"
+    },
+    {
+      "id": 211,
+      "name": "Natura Óleo Desodorante Corporal Amêndoas e Canela",
+      "image": "product_211.jpeg",
+      "price": 116.90,
+      "promo_price": 69.9,
+      "stock": 1,
+      "order": 137,
+      "active": true,
+      "category": "Óleo Corporal"
+    },
+    {
+      "id": 212,
+      "name": "Natura Óleo Desodorante Corporal Rosas e Amêndoas",
+      "image": "product_212.jpeg",
+      "price": 116.90,
+      "promo_price": 69.9,
+      "stock": 1,
+      "order": 137,
+      "active": true,
+      "category": "Óleo Corporal"
+    },
+    {
+      "id": 213,
+      "name": "Presente natura mamãe e bebê flor de laranjeira",
+      "image": "product_213.jpeg",
+      "price": 141.7,
+      "promo_price": 94.9,
+      "stock": 1,
+      "order": 137,
+      "active": true,
+      "category": "Kit Presente"
+    },
+    {
+      "id": 214,
+      "name": "Presente Natura tododia macadâmia",
+      "image": "product_214.jpeg",
+      "price": 113.8,
+      "promo_price": 89.9,
+      "stock": 1,
+      "order": 137,
       "active": true,
       "category": "Kit Presente"
     }
